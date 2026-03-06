@@ -16,9 +16,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeBirchall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBirchall&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeBirchall&theme=tokyo-night"/>
 
 </div>
 
@@ -38,11 +38,11 @@
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/felipebirchalborges/">
 <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_INSTAGRAM">
+<a href="https://www.instagram.com/felipebirchall/">
 <img src="https://img.shields.io/badge/Instagram-7a00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
