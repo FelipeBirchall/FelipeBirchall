@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 👋 Hello, I'm Felipe Birchal
+# 👋 Hello, I'm Felipe Birchal
 
 🎓 Computer Science student at **PUC Minas**  
 💻 Software Developer in training  
