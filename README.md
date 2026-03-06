@@ -2,17 +2,17 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Felipe Borges
+## 👋 Hello, I'm Felipe Borges
 
-🎓 Estudo **Ciência da Computação na PUC Minas**  
-💻 Desenvolvedor em formação  
-🚀 Atualmente estudando **React, Next.js e Node.js**
+🎓 Computer Science student at **PUC Minas**  
+💻 Software Developer in training  
+🚀 Currently learning **React, Next.js and Node.js**
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ---
 
-# 📈 Contribuições
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-# 🌐 Redes sociais
+## 🌐 Connect with me
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ---
 
-# 🧠 Main Skills
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-# 🛠️ Tools
+## 🛠 Tools
 
 <div align="center">
 
